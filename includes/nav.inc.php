@@ -1,5 +1,5 @@
 	<div class="row navrow">
-		<div class="col-md-12">
+		<div class="col-md-12 navcol">
 			<div class="nav">
 				<ul>
 				  <li><a href="construction.php">Home</a></li>
